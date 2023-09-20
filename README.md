@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Rehbar Khan</h1>
-<h3 align="center">A passionate developer from India</h3>
+<h3 align="center">An aspiring developer from India</h3>
 
 <p align="left"> <a href="https://twitter.com/rehbar2004" target="blank"><img src="https://img.shields.io/twitter/follow/rehbar2004?logo=twitter&style=for-the-badge" alt="rehbar2004" /></a> </p>
 
