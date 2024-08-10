@@ -1,6 +1,6 @@
 ![logo](https://github.com/thisisarsh1/thisisarsh1/blob/main/20230830_192151.jpg)
 
-![MasterHead](https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif)
+
 <h1 align="center">Hi 👋, I'm Rehbar Khan </h1>
 <h3 align="center">A passionate Full Stack Developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/19db51af5f90f1b152bc0b9078f5fe97053955be5074f03f17019c70345bdcdb/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966">
@@ -28,20 +28,16 @@
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left"> 
-    
-    <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> 
+<p align="left">
+    <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> 
     </a> 
     <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> 
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> 
     </a> 
-    
-    
     <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> 
         <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> 
     </a> 
-    
     <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
         <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
     </a> 
@@ -69,22 +65,15 @@
     <a href="https://opencv.org/" target="_blank" rel="noreferrer"> 
         <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> 
     </a> 
-    
-    
     <a href="https://postman.com" target="_blank" rel="noreferrer"> 
         <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> 
     </a> 
     <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
     </a> 
-    
-    
-    
     <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> 
         <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> 
     </a> 
-   
-    <!-- Additions start here -->
     <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer"> 
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> 
     </a>
@@ -100,24 +89,21 @@
     <a href="https://docs.microsoft.com/en-us/powershell/" target="_blank" rel="noreferrer"> 
         <img src="https://upload.wikimedia.org/wikipedia/commons/2/2f/PowerShell_5.0_icon.png" alt="powershell" width="40" height="40"/> 
     </a>
-<a href="https://numpy.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://upload.wikimedia.org/wikipedia/commons/3/31/NumPy_logo_2020.svg" alt="numpy" width="40" height="40"/> 
-</a>
-
-
-<a href="https://ubuntu.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://discovery.endeavouros.com/wp-content/uploads/2019/10/Ubuntu-logo.jpg" alt="ubuntu" width="40" height="40"/> 
-</a>
-
-    
-<a href="https://www.virtualbox.org/" target="_blank" rel="noreferrer"> 
+    <a href="https://numpy.org/" target="_blank" rel="noreferrer"> 
+        <img src="https://upload.wikimedia.org/wikipedia/commons/3/31/NumPy_logo_2020.svg" alt="numpy" width="40" height="40"/> 
+    </a>
+    <a href="https://ubuntu.com/" target="_blank" rel="noreferrer"> 
+        <img src="https://discovery.endeavouros.com/wp-content/uploads/2019/10/Ubuntu-logo.jpg" alt="ubuntu" width="40" height="40"/> 
+    </a>
+    <a href="https://www.virtualbox.org/" target="_blank" rel="noreferrer"> 
         <img src="https://www.vectorlogo.zone/logos/virtualbox/virtualbox-icon.svg" alt="virtualbox" width="40" height="40"/> 
     </a>
 </p>
 
 <p align="center">
-  <img width="800" height="220" src="https://streak-stats.demolab.com?user=thisisarsh1&theme=highcontrast&hide_border=true&border_radius=5&card_width=800">
+    <img width="800" height="220" src="https://streak-stats.demolab.com?user=thisisarsh1&theme=highcontrast&hide_border=true&border_radius=5&card_width=800">
 </p>
+
 
 ---
 
