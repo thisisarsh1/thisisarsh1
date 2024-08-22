@@ -12,7 +12,7 @@
 
 - 🌱 I’m currently learning Web-3 and I'm proficient in Fullstack  development using Next.js
 
-- 💬 Ask me about **FullStack development, NextJs, javascript **
+- 💬 Ask me about FullStack development, NextJs, javascript 
 
 - 📫 How to reach me **rehbarkhan.2711@gmail.com**
 ### 🏆 GitHub Trophies
