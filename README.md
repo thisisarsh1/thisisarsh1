@@ -9,6 +9,10 @@
 
 ###
 
+<img align="left" height="250" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExdGE3NndndTRrMTYwa2VtYWM2ajAzY2Fya2h6bTN1aWZ1Nmg3Y3NxOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ve43TyDQ3B4me7d22z/giphy.gif"  />
+
+###
+
 <h6 align="left">🌱I’m currently learning Ai/ML and I'm proficient in Fullstack development using Next.js<br><br>💬 Ask me about FullStack development, NextJs, javascript<br><br>📫 How to reach me: rehbarkhan.2711@gmail.com</h6>
 
 ###
@@ -68,10 +72,6 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/yarn/yarn-original.svg" height="30" alt="yarn logo"  />
 </div>
-
-###
-
-<img align="left" height="250" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExdGE3NndndTRrMTYwa2VtYWM2ajAzY2Fya2h6bTN1aWZ1Nmg3Y3NxOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ve43TyDQ3B4me7d22z/giphy.gif"  />
 
 ###
 
