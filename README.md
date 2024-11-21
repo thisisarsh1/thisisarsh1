@@ -87,22 +87,7 @@
 </div>
 
 ###
-# My Weekly performance ~
-<!--START_SECTION:waka-->
 
-```txt
-Total Time: 6 hrs 41 mins
-
-Python            5 hrs 14 mins   ███████████████████▓░░░░░   78.41 %
-Bash              33 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.24 %
-Java              19 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.78 %
-JavaScript        15 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.95 %
-XML               10 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.55 %
-```
-
-<!--END_SECTION:waka-->
-
-###
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=thisisarsh&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
