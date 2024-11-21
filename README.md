@@ -87,8 +87,20 @@
 </div>
 
 ###
+# My Weekly performance ~
+<!--START_SECTION:waka-->
 
-<img src="https://raw.githubusercontent.com/thisisarsh/thisisarsh/output/snake.svg" alt="Snake animation" />
+```txt
+Total Time: 6 hrs 41 mins
+
+Python            5 hrs 14 mins   ███████████████████▓░░░░░   78.41 %
+Bash              33 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.24 %
+Java              19 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.78 %
+JavaScript        15 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.95 %
+XML               10 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.55 %
+```
+
+<!--END_SECTION:waka-->
 
 ###
 
